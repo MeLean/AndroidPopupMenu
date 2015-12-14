@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Popup</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgBlueTitle">Image Blue</string>
+
+    <string name="blue_image_name">Blue Image</string>
+
+
+</resources>
